@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Precursor.xcscheme</key>
+		<key>extra_recipe.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>17814F771FDDCD1B00A4546F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>17814F901FDDCD3D00A4546F</key>
+		<key>B0F37BBC1E361EAD00179E85</key>
 		<dict>
 			<key>primary</key>
 			<true/>
